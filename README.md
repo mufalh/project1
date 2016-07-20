@@ -1,2 +1,2 @@
 # project1
-My First Project
+This is a kata excirse for Roman Numeral Calculator using C/C++. 
